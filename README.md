@@ -51,7 +51,7 @@ Creating this game helped me:
 
 ## Author
 
-**Oalmiposi Marvelous Ogunbiyi**
+**Olamiposi Marvelous Ogunbiyi**
 
 I am a Python enthusiast and beginner programmer, continuously improving my skills through hands-on projects. This Hangman game is my second Python project, and I am excited to continue learning and growing as a developer.
 
